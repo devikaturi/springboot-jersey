@@ -10,6 +10,7 @@ import javax.ws.rs.ApplicationPath;
 /**
  * Created by DK05478 on 7/13/2017.
  * Register all the end point classed  ( all the resources)
+ * test the
  */
 @Component
 public class CustomJerseyConfig extends ResourceConfig {
